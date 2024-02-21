@@ -231,9 +231,9 @@ Create an index.html file in your domain directory to test the virtual host with
 
 To test if your virtual host is working as expected, you can open your web browser and enter your server's IP address. In this case, it would be the public IP address of your AWS instance.
 
- If everything is set up correctly, you should see the content you added to the index.htm file, including the formatted text and headings.
+ If everything is set up correctly, you should see the content you added to the index.html file, including the formatted text and headings.
 
-![ssh](assets/pic20.PNG)
+![ssh](assets/PIC20.PNG)
 
 
 ## STEP 9: Enabling PHP on the website
